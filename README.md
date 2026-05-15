@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/banner.png" alt="ChatPDF Banner" width="100%" />
+</div>
+
 # 🤖 ChatPDF — AI-Powered PDF Q&A Chatbot
 
 > Upload any PDF and chat with it using natural language — powered by LangChain, LangGraph, and OpenAI.
@@ -17,7 +21,9 @@
 
 **Here's what the Chatbot UI looks like:**
 
-<img width="1096" alt="ChatPDF UI Screenshot" src="https://github.com/user-attachments/assets/3a9ddea7-b718-476b-bdae-38839be20c12" />
+<div align="center">
+  <img src="./assets/screenshot.png" alt="ChatPDF UI Screenshot" width="100%" />
+</div>
 
 ---
 
